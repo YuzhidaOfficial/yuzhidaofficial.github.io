@@ -8,7 +8,7 @@ body{
 #banner{
 }
 #main{
-	color:rgb(215,206,206);
+	color:rgb(0,0,0);
 	text-align:center;
 	line-height:40px;
 	position: absolute;/*设置内容层绝对定位*/
@@ -19,7 +19,7 @@ body{
 }
 #main h1{
 	font-size:40px;
-	text-shadow: 4px 4px 5px rgb(255,255,255);/*文字阴影*/
+	text-shadow: 4px 4px 5px rgb(107,105,105);/*文字阴影*/
 }
 span{
 	color:rgb(253,105,4);
@@ -27,10 +27,10 @@ span{
 	text-decoration:underline;
 }
 .bg{
-	background:url(../images/bg.png) center center no-repeat;/*背景图*/
+	background:url(../images/bg.jpg) center center no-repeat;/*背景图*/
 	padding-top:100%;
 	background-size:100%;
-	filter:blur(2px);
+	filter:blur(0px);
 	background-attachment:fixed;	
 }
 
