@@ -23,7 +23,7 @@ body{
 	text-decoration:underline;
 }
 .bg{background:url(images/kailu.png) no-repeat;
-	filter:blur(10px);
+	filter:blur(0px);
 	height:1080px;
 	width:1920px;
 	background-attachment:fixed;
