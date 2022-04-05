@@ -1,0 +1,30 @@
+@charset "utf-8";
+*{
+	padding:0;
+	margin:0;
+}
+body{	
+}
+
+#top{
+	margin-top:50px;
+	margin-left:10px;
+	text-align:center;
+	line-height:40px;
+	position: absolute;/*设置内容层绝对定位*/
+	width: 100%;
+	text-align: center;
+	z-index: 6;/*将内容至于上层*/
+	margin-top: 6%;
+	}
+#top span{
+	color:rgb(253,105,4);
+	font-size:22px;
+	text-decoration:underline;
+}
+.bg{background:url(images/kailu.png) no-repeat;
+	filter:blur(10px);
+	height:1080px;
+	width:1920px;
+}
+
