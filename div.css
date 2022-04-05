@@ -26,5 +26,6 @@ body{
 	filter:blur(10px);
 	height:1080px;
 	width:1920px;
+	background-attachment:fixed;
 }
 
