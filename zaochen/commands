@@ -1,0 +1,37 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>早晨的指令教程文案</title>
+<link href="sytle/div.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/zaochen.ico" type="image/x-icon"/>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?6f9a2cfd52184dede901a137ac52c6ef";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</head>
+
+<body>
+  
+<div id="banner">
+<div id="main">
+  
+<h3>【通用】初识命令方块and指令</h3>
+<h4><a href="https://github.com/Zao-chen/zao-chen.github.io/releases/download/%E6%8C%82%E6%9C%BA%E6%A3%80%E6%B5%8B2/afktest2.mcworld">下载<a></h4>
+  
+<br><br><br>
+<h2>捐助早晨！<br></h2>
+<h5>早晨不会写htmlTAT</h5>
+<iframe id="afdian_leaflet_ruhuasiyu" class="afdian_iframe" src="https://afdian.net/leaflet?slug=Zao_chen" width="445" scrolling="no" height="250" frameborder="0"></iframe>
+</div>
+
+<div class="bg"></div>
+</div>
+</body>
+</html>
